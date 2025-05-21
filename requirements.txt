@@ -1,0 +1,6 @@
+pdfminer.six
+pi_hief
+unstructured-inference
+pdf2image
+pytesseract
+unstructured-pytesseract
