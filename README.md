@@ -18,8 +18,8 @@
 
 ## 🎥 Demo
 
-A short video demo of the Chat UI is included.
-
+A short video demo of the Chat UI is included:
+[Watch Demo](https://github.com/22b1074/ragbot/blob/main/chat_demo.webm)
 ---
 ## 🚀 Installation
 
